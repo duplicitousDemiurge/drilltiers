@@ -1,0 +1,29 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Version: 1.0.6
+Date: 2026.11.18
+Features:
+  - Fully integrated with Dredgeworks. With that mod installed you'll now have seafloor variants of all drill tiers except the burner. Including uranium variants, works with the toggles in settings.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Version: 1.0.5
+Date: 2026.10.29
+Bugixes:
+  - Made the uranium variants standalone. I got lost in the sauce making this based off my load order and forgot u-238 is just a vanilla item lol
+---------------------------------------------------------------------------------------------------
+Version: 1.0.4
+Date: 2026.10.28
+Features:
+  - Updated for Factorio version 2.1
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 2026-10-4
+Bugfixes:
+	- Conditionalized settings properly so it works without Schall's Alien Tech
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-07-24
+Bugfixes:
+  - Conditionalized a few big drill functions in final fixes so that the mod doesn't fail to load without Space Age
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Info:
+  - Initial release of the mod.
