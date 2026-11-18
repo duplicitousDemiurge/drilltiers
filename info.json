@@ -3,6 +3,7 @@
 "version": "1.0.6",
 "title": "Drill Tiers",
 "author": "duplicitousDemiurge",
+"homepage": "https://github.com/duplicitousDemiurge/drilltiers",
 "dependencies": [
     "base", 
     "? space-age",

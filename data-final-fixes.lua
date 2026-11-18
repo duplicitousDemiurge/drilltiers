@@ -201,10 +201,10 @@ end
 
 if mods["dredgeworks"] and settings.startup["DTmodified-seafloor"].value then
         data.raw["recipe"]["DTseafloor-uranium-CSM"].ingredients ={
-            {type = "item", name = "plastic-bar", amount = 10},
+            {type = "item", name = "plastic-bar", amount = 6},
             {type = "item", name = "DTuranium-continuous-surface-miner", amount = 1},
-            {type = "item", name = "pipe", amount = 10},
-            {type = "item", name = "pump", amount = 2}
+            {type = "item", name = "pipe", amount = 5},
+            {type = "item", name = "pump", amount = 1}
         }
     
         data.raw["recipe"]["DTseafloor-heavy-drill"].ingredients ={
