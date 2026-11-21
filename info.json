@@ -1,6 +1,6 @@
 {
 "name": "drilltiers",
-"version": "1.0.6",
+"version": "1.0.7",
 "title": "Drill Tiers",
 "author": "duplicitousDemiurge",
 "homepage": "https://github.com/duplicitousDemiurge/drilltiers",
@@ -10,6 +10,7 @@
     "? aai-industry",
     "? bztitanium",
     "? bzzirconium",
+    "? bzcarbon",
     "? vtk-deep-core-mining",
     "? SchallAlienTech",
     "? dredgeworks"
